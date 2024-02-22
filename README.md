@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raykhonn?tab=repositories](https://github.com/raykhonn?tab=repositories)
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/Telegram%20Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Web_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82_Raykhona_Rasulova_%D0%BE%D1%82_22_02_2024_11_03.pdf](file:///C:/Users/hp/Downloads/Telegram%20Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Web_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82_Raykhona_Rasulova_%D0%BE%D1%82_22_02_2024_11_03.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
