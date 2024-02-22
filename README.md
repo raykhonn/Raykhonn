@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raykhonn?tab=repositories](https://github.com/raykhonn?tab=repositories)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muyassard&label=Profile%20views&color=0e75b6&style=flat" alt="raykhonn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raykhonn&label=Profile%20views&color=0e75b6&style=flat" alt="raykhonn" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
