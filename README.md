@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raykhona</h1>
 <h3 align="center">A frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **frontend skills **
 
 - 👨‍💻 All of my projects are available at [https://github.com/raykhonn?tab=repositories](https://github.com/raykhonn?tab=repositories)
 
