@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raykhonn?tab=repositories](https://github.com/raykhonn?tab=repositories)
 
+- My portfolio is here [https://raykhon-portfolio.netlify.app/](https://raykhon-portfolio.netlify.app/)
+
 - 📄 Know about my experiences [https://tashkent.hh.uz/resume/c2a0b5c3ff0ce60d6e0039ed1f7439456d6874](https://tashkent.hh.uz/resume/c2a0b5c3ff0ce60d6e0039ed1f7439456d6874)
 
 <h3 align="left">Connect with me:</h3>
